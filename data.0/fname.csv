@@ -1,0 +1,56 @@
+variable,label
+de.age,Age
+de.gender,Gender
+de.black,Black
+de.race,Race
+de.ethnicity,Ethnicity
+de.smoker,Smoker
+hx.icu,ICU Admit
+hx.ckd,CKD
+hx.aki_st,AKI Stage
+hx.htn,HTN
+hx.dm,DM
+hx.cld,CLD
+hx.cvd,CVD
+hx.chf,CHF
+hx.copd,COPD
+hx.sepsis,Sepsis
+hx.lupus,Lupus
+pe.bmi,BMI
+pe.cr.bl,Baseline Cr
+pe.gfr.bl,Baseline GFR
+pe.cr.v0,Cr
+pe.gfr.v0,GFR
+ca.nt_probnt,NT-proBNP
+ca.tropt,TropT
+in.cysc,CysC
+in.pth,PTH
+in.po4,PO4
+in.crp,CRP
+in.fgf23,FGF23
+in.st2,ST2
+in.gal3,GAL3
+pi.ifng,IFNG
+pi.il1b,IL-1B
+pi.il2,IL-2
+pi.il6,IL6
+pi.il8,IL-8
+pi.il10,IL-10
+pi.il12p70,IL-12 p70
+pi.il13,IL-13
+pi.tnfa,TNF-alpha
+pi.tnfr1,TNFR1
+pi.tnfr2,TNFR2
+ua.il18,U.IL-18
+ua.kim1,U.KIM-1
+ua.mcp1,U.MCP-1
+ua.ykl40,U.YKL-40
+ua.ngal,U.NGAL
+ua.umod,U.UMOD
+ua.cysc,U.CysC
+ua.osm,U.mOsm
+ua.cr,U.Cr
+ua.prot,U.Prot
+ua.alb,U.Alb
+ua.acr,U.ACR
+ua.pcr,U.PCR
